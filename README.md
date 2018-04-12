@@ -12,7 +12,7 @@ Each experiment has been completed using Python 2.7 and Keras version 1.2.0 - th
 
 
 ### Key
-Each python file corresponds to an algorithm discussed in the paper. To consolidate the names of the algorithm, a key is provided below.
+Each python file corresponds to one of the algorithms discussed in the paper. To consolidate the names of the algorithm, a key is provided below.
 
   [Base.py](https://github.com/Kyle-RGU/Informed-Pair-Selection/blob/master/Informed%20Pair%20Selection/SNN_Base.py) = Base
   
